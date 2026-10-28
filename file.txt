@@ -1,10 +1,13 @@
-<<<<<<< HEAD
+
 Welcome to Git
 hello
 rumeena
 
-=======
 welcome to the world
 heloo
 jaaneman
->>>>>>> login
+
+welcome
+hello
+fazila
+
